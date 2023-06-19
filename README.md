@@ -11,6 +11,8 @@ This project implements a countdown timer list using React Native. The list allo
 - Resume button to resume a paused countdown
 - The list maintains the state of each timer even when paused or resumed
 
+![timer gif](./countdowngif.gif)
+
 ## Getting Started
 
 ### Prerequisites
